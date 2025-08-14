@@ -14,7 +14,7 @@ specific transaction details into a custom text format.
 
 ## Requirements
 - Java 17+
-- Maven 3.x
+- Gradle 
 
 ## How to Run
 ./gradlew bootRun -x test
