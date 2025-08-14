@@ -1,0 +1,4 @@
+app:
+  lookup-dir: "data-lookup"
+  output-dir: "output"
+  input-file: "input/ABCDISK25112021.txt"

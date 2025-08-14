@@ -1,0 +1,10 @@
+Transaction Reference Number: XY2112211379-01
+
+Account Identification: 21245870000
+
+Reference1 : ABC-SW-20683/21
+Amount: 50.00
+
+Reference1 : ABC/TT/21/50235
+Amount: 25.00
+
